@@ -13,9 +13,9 @@
 #include "stdbool.h"
 
 #define MAX_ACTIVATIONS 3
-//#define ACTIVATION_PERIOD 86400000 // 24 hours in milliseconds
-#define ACTIVATION_PERIOD 6000 // 1 minute in milliseconds (test)
-#define RELAY_OFF_DELAY 10000 // 10 seconds delay for the relay to be turned off
+//#define ACTIVATION_PERIOD 86400000 // About 24 hours in milliseconds
+#define ACTIVATION_PERIOD 6000 // About 1 minute (test)
+#define RELAY_OFF_DELAY 10000 // About 10 seconds delay for the relay to be turned off
 
 /***********************************RELAY*********************************************/
 
@@ -69,8 +69,8 @@ uint32_t get_millis(void) {
 
 int main() {
 
-	// Call Functions
-	Timer2_Init(); // Initialize timer
+    // Call Functions
+    Timer2_Init(); // Initialize timer
     i2c_init(); // Initialize I2C
     lcd_init(); // Initialize LCD
     adc_init(); // Initialize ADC for Sensors and Relay
@@ -136,7 +136,7 @@ lcd_clear();
             lcd_send_string("                    "); // Clear the second line
             setCursor(0, 2);
             lcd_send_string("I'm a Cactus!       "); // Display message
-            delay_ms(50); // Display the message for 2 seconds
+            delay_ms(50); // Display the message for sone time
             lcd_clear();
 
 //--------------------------------RELAY & SENSOR READINGS----------------------------------//
