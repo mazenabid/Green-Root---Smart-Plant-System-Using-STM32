@@ -12,3 +12,7 @@
   - Downloading the important documentations
   - Focusing on adding MODEF and AFIO functions
   - Adjusting the ADC to your desired functionalities
+
+
+
+STMF103 PIN FUNCTIONS PDF is a courtsey of my lab instructor, Dave Duguid, from the University of Regina. 2024.
