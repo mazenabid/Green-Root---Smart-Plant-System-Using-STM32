@@ -1,0 +1,3 @@
+../Src/uart.c:4:6:USART2_Init	4	static
+../Src/uart.c:26:6:USART_write	16	static
+../Src/uart.c:33:6:UART_Write_String	16	static

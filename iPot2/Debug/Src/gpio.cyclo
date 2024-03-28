@@ -1,0 +1,4 @@
+../Src/gpio.c:4:6:LD2_init	1
+../Src/gpio.c:11:6:LD2_OFF	1
+../Src/gpio.c:16:6:LD2_ON	1
+../Src/gpio.c:21:6:LD2_TOGGLE	1

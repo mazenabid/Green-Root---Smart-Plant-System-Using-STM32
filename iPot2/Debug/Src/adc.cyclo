@@ -1,0 +1,2 @@
+../Src/adc.c:12:6:adc_init	2
+../Src/adc.c:40:10:start_conversion	2

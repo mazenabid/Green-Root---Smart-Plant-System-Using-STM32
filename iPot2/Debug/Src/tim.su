@@ -1,0 +1,3 @@
+/Users/mazen/Desktop/STM32CubeIDE/workspace_1.14.0/chip_headers/CMSIS/Include/core_cm3.h:1511:22:__NVIC_EnableIRQ	16	static
+../Src/tim.c:27:6:TIM2_1hz_init	4	static
+../Src/tim.c:55:6:TIM2_1hz_interrupt_init	8	static
