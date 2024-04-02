@@ -135,7 +135,7 @@ Download the "Chip Headers" folder from the repository and save it in a location
 
 - In the project properties window, switch to the `Symbols` tab.
 - Add any missing symbols from the screenshot that your project may require. This step is vital for informing the compiler about your STM32 chip's specific features.
-<img width="834" alt="Screenshot 2024-04-02 at 12 15 30 AM" src="https://github.com/mazenabid/GreenRoot/assets/87061766/9b84689c-7bd6-4252-8f7e-78c48b160476">
+<img width="834" alt="Screenshot 2024-04-02 at 2 34 37 PM" src="https://github.com/mazenabid/GreenRoot/assets/87061766/ee7b002c-aa32-4288-875f-5027cf85116e">
 
 ### 6. Finalizing Setup
 - Apply the changes and close the properties window. Your development environment is now ready for low-level programming.
