@@ -6,11 +6,9 @@ Welcome to the GreenRoot project, where I have created a smart plant system usin
 
 I've recently dived into the realm of IoT technology, drawn by my interest in programming for embedded systems and a growing fascination with web technologies acquired over the past year. IoT being popular in controlling things over WiFi naturally caught my attention.
 
-Not long ago, I wrapped up a project and called it "GreenRoot." It offers users the ability to monitor their plants' health. Additionally, it automatically waters them based on customizable settings. Users can easily control their water pump from the Blynk App or web dashboard. This web application is responsive, adapting to various devices and allows for more than just water pump control as you can add more sensors and modes for ease of use.
+Not too long ago, I wrapped up a project and called it "GreenRoot." It offers users the ability to monitor their plants' health. Additionally, it automatically waters them based on customizable settings. Users can easily control their water pump from the Blynk App or web dashboard. Using Blynk is responsive, adapts various devices and allows for more than just water pump control as you can add more sensors and modes for ease of use.
 
 Creating GreenRoot involved designing schematics, setting up Blynk, and developing the system's firmware. This comprehensive project allowed me to engage with every crucial component of a complete STM Project since there's no HAL usage throughout this project.
-
-I prioritized using affordable and accessible components for GreenRoot to ensure that others could easily replicate and customize it. For those interested, a detailed parts list and a step-by-step guide for installing GreenRoot at home can be found here.
 
 ## Video Demonstration
 For a more detailed look at the game, you can watch the video [here]((https://youtu.be/izzzgu7p95I?si=vIytle1yohXQ31FL))
@@ -32,7 +30,7 @@ For a more detailed look at the game, you can watch the video [here]((https://yo
 
 ## Getting Started
 
-To replicate and customize GreenRoot for your home, we've ensured the use of affordable and readily available components. A complete guide, including a detailed parts list and step-by-step instructions, is available to help you set up GreenRoot.
+To replicate and customize GreenRoot for your home, we've ensured the use of affordable and readily available components. A complete guide, including a detailed parts list and step-by-step instructions, is available to help you set up GreenRoot. I prioritized using affordable and accessible components for GreenRoot to ensure that others could easily replicate and customize it. For those interested, a detailed parts list and a step-by-step guide for installing GreenRoot at home can be found here.
 
 ## Components List
 
@@ -88,12 +86,21 @@ Please ensure to verify each link and product before purchase to make sure they 
 (Detailed schematics will provide visual guidance for assembling both the STM32 and ESP32 components of the system, ensuring a smooth setup process.)
 
 ### STM32 Schematics
-
-(Schematic diagrams for the STM32 part, illustrating connections between the microcontroller, sensors, display, and actuators.)
+<img width="722" alt="Screenshot 2024-04-01 at 11 41 35 PM" src="https://github.com/mazenabid/GreenRoot/assets/87061766/2ef067ff-0a36-4515-b822-b1f228b87d2d">
 
 ### ESP32 Schematics
+<img width="1016" alt="Screenshot 2024-04-01 at 11 41 04 PM" src="https://github.com/mazenabid/GreenRoot/assets/87061766/ba4b4a68-14cb-4921-b833-5ff3d5e37f6a">
 
-(Schematic diagrams for the ESP32 part, showing how to connect the module for WiFi connectivity and control via Blynk.)
+### Setting up CubeIDE for Low Level/Bare Metal Coding Environment:
+
+Open STM32CubeIDE Program, login to STM and follow the necesaary steps
+Go to File > New > STM32 Project
+Enter tha neame of the board in Commercial Part Name TextBox, in our case it's called Nucleo STM32F103RBT6
+Now Make sure you make it an empty Project:
+![Image](https://github.com/mazenabid/GreenRoot/assets/87061766/af4b94fc-a7f0-4609-ac93-997fedbf0d46)
 
 
-GreenRoot is more than a project; it's a step towards smarter, more efficient plant care. Dive into the documentation, harness the power of IoT for your greenery, and bring the precision of technology to your plant care routine.
+
+
+
+GreenRoot is more than a project; it's a step towards smarter, more efficient plant care. Please check out the documentations and bring the precision of technology to your plant care routine by trying it yourself at home!
