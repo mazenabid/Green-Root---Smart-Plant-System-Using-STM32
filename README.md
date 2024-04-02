@@ -83,7 +83,7 @@ Please ensure to verify each link and product before purchase to make sure they 
 
 ## Project Schematics
 
-(Detailed schematics will provide visual guidance for assembling both the STM32 and ESP32 components of the system, ensuring a smooth setup process.)
+Detailed schematics will provide visual guidance for assembling both the STM32 and ESP32 components of the system, ensuring a smooth setup process.
 
 ### STM32 Schematics
 <img width="722" alt="Screenshot 2024-04-01 at 11 41 35 PM" src="https://github.com/mazenabid/GreenRoot/assets/87061766/2ef067ff-0a36-4515-b822-b1f228b87d2d">
@@ -91,6 +91,8 @@ Please ensure to verify each link and product before purchase to make sure they 
 ### ESP32 Schematics
 <img width="1016" alt="Screenshot 2024-04-01 at 11 41 04 PM" src="https://github.com/mazenabid/GreenRoot/assets/87061766/ba4b4a68-14cb-4921-b833-5ff3d5e37f6a">
 
+&nbsp;
+&nbsp;
 
 # Setting up STM32CubeIDE for Low Level/Bare Metal Coding
 
