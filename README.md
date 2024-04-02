@@ -12,6 +12,11 @@ Creating GreenRoot involved designing schematics, setting up Blynk, and developi
 
 I prioritized using affordable and accessible components for GreenRoot to ensure that others could easily replicate and customize it. For those interested, a detailed parts list and a step-by-step guide for installing GreenRoot at home can be found here.
 
+## Video Demonstration
+For a more detailed look at the game, you can watch the video [here]((https://youtu.be/izzzgu7p95I?si=vIytle1yohXQ31FL))
+
+[![Watch the video](http://img.youtube.com/vi/izzzgu7p95I/0.jpg)](https://youtu.be/izzzgu7p95I?si=vIytle1yohXQ31FL)
+
 ### Key Features
 
 - **Automated Watering:** Customizable settings for soil moisture, ensuring plants receive the right amount of water.
