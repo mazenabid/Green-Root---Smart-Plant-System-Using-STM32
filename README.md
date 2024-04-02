@@ -4,7 +4,7 @@ Welcome to the GreenRoot project, where I have created a smart plant system usin
 
 ## Project Overview
 
-I've recently dived into the realm of IoT technology, drawn by my interest in programming for embedded systems and a growing fascination with web technologies acquired over the past year. IoT being popular in controlling things over WiFi naturally caught my attention.
+I've recently dived into the realm of IoT technology, drawn by my interest in programming for embedded systems and a growing fascination with web technologies acquired over the past year. IoT development boards such as ESP32 being popular in controlling things over WiFi naturally caught my attention.
 
 Not too long ago, I wrapped up a project and called it "GreenRoot." It offers users the ability to monitor their plants' health. Additionally, it automatically waters them based on customizable settings. Users can easily control their water pump from the Blynk App or web dashboard. Using Blynk is responsive, adapts various devices and allows for more than just water pump control as you can add more sensors and modes for ease of use.
 
