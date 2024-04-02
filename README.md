@@ -11,7 +11,7 @@ Not too long ago, I wrapped up a project and called it "GreenRoot." It offers us
 Creating GreenRoot involved designing schematics, setting up Blynk, and developing the system's firmware. This comprehensive project allowed me to engage with every crucial component of a complete STM Project since there's no HAL usage throughout this project.
 
 ## Video Demonstration
-For a more detailed look at the game, you can watch the video [here]((https://youtu.be/izzzgu7p95I?si=vIytle1yohXQ31FL))
+For a demo, you can watch the video [here]((https://youtu.be/izzzgu7p95I?si=vIytle1yohXQ31FL))
 
 [![Watch the video](http://img.youtube.com/vi/izzzgu7p95I/0.jpg)](https://youtu.be/izzzgu7p95I?si=vIytle1yohXQ31FL)
 
