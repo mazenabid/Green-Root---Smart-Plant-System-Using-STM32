@@ -39,8 +39,8 @@ For your convenience, here are direct links to purchase the components needed fo
 - **LCD Display**:
   - [Buy on Amazon](https://www.amazon.ca/dp/B01GPUMP9C?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 
-- **Sensors** (Note: The link provided is the same as the LCD. Please verify this as it might be an error):
-  - [Buy on Amazon](https://www.amazon.ca/dp/B01GPUMP9C?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+- **Sensors**:
+  - [Buy on Amazon](https://www.amazon.ca/keyestudio-Tutorial-Programming-Learning-Education/dp/B016KIXSMM/ref=asc_df_B016KIXSMM/?tag=googlemobshop-20&linkCode=df0&hvadid=293021489696&hvpos=&hvnetw=g&hvrand=17743198096267389233&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=1002787&hvtargid=pla-639829366075&psc=1&mcid=1df5754eb72e39fd94f963abe7d3346a)
 
 - **ESP32 Module**:
   - [Buy on Amazon](https://www.amazon.ca/dp/B08HJYT6YV?psc=1&ref=ppx_yo2ov_dt_b_product_details)
