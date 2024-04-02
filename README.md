@@ -30,7 +30,7 @@ For a demo, you can watch the video [here]((https://youtu.be/izzzgu7p95I?si=vIyt
 
 ## Getting Started
 
-To replicate and customize GreenRoot for your home, we've ensured the use of affordable and readily available components. A complete guide, including a detailed parts list and step-by-step instructions, is available to help you set up GreenRoot. I prioritized using affordable and accessible components for GreenRoot to ensure that others could easily replicate and customize it. For those interested, a detailed parts list and a step-by-step guide for installing GreenRoot at home can be found here.
+I prioritized using affordable and accessible components for GreenRoot to ensure that others could easily replicate and customize it. For those interested, a detailed parts list and a step-by-step guide for installing GreenRoot at home can be found here.
 
 ## Components List
 
