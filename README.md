@@ -91,16 +91,53 @@ Please ensure to verify each link and product before purchase to make sure they 
 ### ESP32 Schematics
 <img width="1016" alt="Screenshot 2024-04-01 at 11 41 04 PM" src="https://github.com/mazenabid/GreenRoot/assets/87061766/ba4b4a68-14cb-4921-b833-5ff3d5e37f6a">
 
-### Setting up CubeIDE for Low Level/Bare Metal Coding Environment:
 
-Open STM32CubeIDE Program, login to STM and follow the necesaary steps
-Go to File > New > STM32 Project
-Enter tha neame of the board in Commercial Part Name TextBox, in our case it's called Nucleo STM32F103RBT6
-Now Make sure you make it an empty Project:
-![Image](https://github.com/mazenabid/GreenRoot/assets/87061766/af4b94fc-a7f0-4609-ac93-997fedbf0d46)
+# Setting up STM32CubeIDE for Low Level/Bare Metal Coding
+
+This guide is crucial for preparing your development environment to work with the STM32 microcontroller at a low level, enabling precise control over the hardware for projects like GreenRoot. Follow these steps carefully to ensure your environment is correctly set up.
+
+## Initial Setup in STM32CubeIDE
+
+### 1. Prepare Chip Headers
+
+Download the "Chip Headers" folder from the repository and save it in a location that's easily accessible.
+
+### 2. Creating a New Project
+
+- Open STM32CubeIDE and log in to your STM account.
+- Go to `File > New > STM32 Project`.
+- In the Commercial Part Name field, enter your board's name. For GreenRoot, it's `Nucleo STM32F103RBT6`.
+- Opt to create an empty project to start with a clean slate for bare metal programming.
 
 
+### 3. Configuring Project Properties
+
+- Double-click your project in the Project Explorer to open its properties.
+- Navigate to `C/C++ General > Paths and Symbols`.
+- Under the `Includes` tab, click `Add` to include the directory of your chip headers.
+<img width="398" alt="Screenshot 2024-04-02 at 12 01 47 AM" src="https://github.com/mazenabid/GreenRoot/assets/87061766/52602a31-5b9b-412b-afb5-4cacdeb8148f">
+<img width="715" alt="Screenshot 2024-04-02 at 12 06 04 AM" src="https://github.com/mazenabid/GreenRoot/assets/87061766/e3bc44e2-bb8a-4458-8e93-27d37eb46836">
+
+### 4. Adding Include Directories
+
+- Click on `Add > File System` and navigate to the previously saved "Chip Headers" folder.
+- Go to `CMSIS > Device > ST > STM32F1xx` and select the `Include` folder. Click `Open`.
+- Repeat the process for the CMSIS `Include` folder by navigating to `CMSIS` and then `Include`, and click `Open`.
+<img width="979" alt="Screenshot 2024-04-02 at 12 10 35 AM" src="https://github.com/mazenabid/GreenRoot/assets/87061766/0d654fa2-cc73-4074-a503-269824b0492e">
+
+- You should End up with this:
+<img width="834" alt="Screenshot 2024-04-02 at 12 14 46 AM" src="https://github.com/mazenabid/GreenRoot/assets/87061766/a2f38381-c7de-4535-886d-44bb80ba6932">
 
 
+### 5. Configuring Symbols
 
+- In the project properties window, switch to the `Symbols` tab.
+- Add any missing symbols from the screenshot that your project may require. This step is vital for informing the compiler about your STM32 chip's specific features.
+<img width="834" alt="Screenshot 2024-04-02 at 12 15 30 AM" src="https://github.com/mazenabid/GreenRoot/assets/87061766/9b84689c-7bd6-4252-8f7e-78c48b160476">
+
+### 6. Finalizing Setup
+- Apply the changes and close the properties window. Your development environment is now ready for low-level programming.
+
+
+# Summary
 GreenRoot is more than a project; it's a step towards smarter, more efficient plant care. Please check out the documentations and bring the precision of technology to your plant care routine by trying it yourself at home!
