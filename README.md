@@ -1,6 +1,6 @@
 # GreenRoot: Automated Plant Care System
 
-Welcome to the GreenRoot project, where I have created a smart plant system using the STM32 and Cube IDE as well as using the ESP32 to control the morot from your phone or laptop over theinternet. GreenRoot revolutionizes plant care at home by automating watering based on customizable soil moisture levels, providing real-time data on soil moisture and temperature data. This system allows you to make informed decisions for your plants, moving beyond guesswork to precision care. I will outlines the setup process for GreenRoot and explores the technology and architecture behind this project.
+Welcome to the GreenRoot project, where the aim was for GreenRoot to revolutionizes plant care at home by automating watering based on customizable soil moisture levels, providing real-time data on soil moisture and temperature data. This system allows you to make informed decisions for your plants, moving beyond guesswork to precision care. I will outlines the setup process for GreenRoot and explores the technology and architecture behind this project.
 
 ## Project Overview
 
