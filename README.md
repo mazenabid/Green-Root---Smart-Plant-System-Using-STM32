@@ -59,7 +59,7 @@ Please ensure to verify each link and product before purchase to make sure they 
 
 - Moisture Sensor
 - Temperature Sensor
-- 16x2 LCD Screen
+- 20x4 LCD Screen
 - Relay
 - DC Motor
 - Tube
@@ -67,6 +67,7 @@ Please ensure to verify each link and product before purchase to make sure they 
 - Charging Cable
 - Jumper Wires
 - Breadboard
+- Push Button
 
 **Software:** Cube IDE
 
