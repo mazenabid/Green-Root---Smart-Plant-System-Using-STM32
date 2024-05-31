@@ -123,7 +123,7 @@ Download the "Chip Headers" folder from the repository and save it in a location
 
 ### 4. Adding Include Directories
 
-- Click on `Add > File System` and navigate to the previously saved "Chip Headers" folder.
+- Click on `Add > File System` and navigate to the previously saved "Chip Headers" folder from this repository.
 - Go to `CMSIS > Device > ST > STM32F1xx` and select the `Include` folder. Click `Open`.
 - Repeat the process for the CMSIS `Include` folder by navigating to `CMSIS` and then `Include`, and click `Open`.
 <img width="979" alt="Screenshot 2024-04-02 at 12 10 35 AM" src="https://github.com/mazenabid/GreenRoot/assets/87061766/0d654fa2-cc73-4074-a503-269824b0492e">
